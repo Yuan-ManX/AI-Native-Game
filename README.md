@@ -1,10 +1,10 @@
-# AI-Native Game
+# AI-Native Game 🎮
 
 <p align="center">
   <img src="AI-Native Game.png" alt="AI-Native Game" style="display:block; margin:auto;" />
 </p>
 
-Here we will track the latest AI-Native Game! 🎮
+Here we will track the latest AI-Native Game! 🚀
 
 ## Contents
 
